@@ -65,7 +65,7 @@ Sip & Snack Collection <br/>
 #### Leaf coaster: It is a leaf Shape coaster Which can look very nice plant on Table. 
 
 ## why i made this?
-### While watching movies. I always eat some snacks so I need a trip in which I put our snacks. and I needed a good looking coaster Why built this leaf coaster.
+### While watching movies. I always eat some snacks so I need a tray in which I put my snacks. and I needed a good looking coaster Why built this leaf coaster.
 
 ## Repository Structure
 - `src/` - project sources
