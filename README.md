@@ -47,14 +47,18 @@ Sip & Snack Collection <br/>
 <div align="center">
 <table>
 <tr>
-<td valign="bottom"><img width=100% alt="image" 
+<td valign="middle" align="center">
+  <img height="280" alt="image" src="https://github.com/user-attachments/assets/45f6b7ce-eb3c-4f8e-a5ff-da64aeb22a5a" />
 </td>
-<td valign="bottom"><img width=100% alt="image" 
+<td valign="middle" align="center">
+  <img height="280" alt="image" src="https://github.com/user-attachments/assets/a9f95791-8866-47e6-8b13-dd221305cd2a" />
+</td>
+</tr>
 </table>
 </div>
 
 
-## printable like: 
+## printable like: https://www.printables.com/model/1840192-sip-snack-collection
 ## About the Project
 ### **Sip & Snack Collection** - It is a 3D printed Snacks tray and leaf shape coaster made in Fusion 360.
 #### Snacks tray: It is a tray for holding the snacks and cold drink Which can be fit in between of sofa so We can enjoy our meal.
@@ -107,9 +111,9 @@ Source: `BOM.csv`
 
 |item         |Qantity|price|link to buy                                     |
 |-------------|-------|-----|------------------------------------------------|
-|Pla+ filament|32gram| 0.3$   |https://india.numakers.com/products/pla-filament|
-|Pla+ filament|60gram| 0.5$   |https://india.numakers.com/products/pla-filament|
-|Total        |92gram| 0.8$   |https://india.numakers.com/products/pla-filament|
+|Pla+ filament|30gram| 0.3$   |https://india.numakers.com/products/pla-filament|
+|Pla+ filament|70gram| 0.6$   |https://india.numakers.com/products/pla-filament|
+|Total        |100gram| 0.9$   |https://india.numakers.com/products/pla-filament|
 
 
 ## Production
